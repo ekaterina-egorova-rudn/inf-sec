@@ -71,11 +71,11 @@ header-includes:
 
 Ввожу данные на сайте
 
-![Включение](image/07.jpg){ #fig:007 width=70% height=70% }
+![Включение](image/07.png){ #fig:007 width=70% height=70% }
 
 Проверяю работоспособность
 
-![Проверка](image/08.jpg){ #fig:008 width=70% height=70% }
+![Проверка](image/08.png){ #fig:008 width=70% height=70% }
 # Вывод
 
 Мы приобрели практические навыки установки DVWA в гостевую систему к Kali Linux.
