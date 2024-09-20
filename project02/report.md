@@ -1,7 +1,7 @@
 ---
 # Front matter
 lang: ru-RU
-title: "Отчёт по 1 этапу проекта"
+title: "Отчёт по 2 этапу проекта"
 subtitle: "Установка Kali Linux"
 author: "Екатерина Егорова"
 
@@ -53,21 +53,21 @@ header-includes:
 
 Устанавливаю DVWA
 
-![Установка](image/01.jpg){ #fig:001 width=70% height=70% }
+![Установка](image/01.png){ #fig:001 width=70% height=70% }
 
 Устанавливаю имя пользователя и пароль
 
-![Установка пароля и имя пользователя](image/02.jpg){ #fig:002 width=70% height=70% }
+![Установка пароля и имя пользователя](image/02.png){ #fig:002 width=70% height=70% }
 
-![Установка](image/03.jpg){ #fig:003 width=70% height=70% }
+![Установка](image/03.png){ #fig:003 width=70% height=70% }
 
 Запускаю 
 
-![Запуск](image/04.jpg){ #fig:004 width=70% height=70% }
+![Запуск](image/04.png){ #fig:004 width=70% height=70% }
 
-![Запуск](image/05.jpg){ #fig:005 width=70% height=70% }
+![Запуск](image/05.png){ #fig:005 width=70% height=70% }
 
-![Включение](image/06.jpg){ #fig:006 width=70% height=70% }
+![Включение](image/06.png){ #fig:006 width=70% height=70% }
 
 Ввожу данные на сайте
 
